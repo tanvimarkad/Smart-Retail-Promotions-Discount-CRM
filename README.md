@@ -1,18 +1,58 @@
-# Salesforce DX Project: Next Steps
+<h1>Smart Retail Promotions & Discount CRM 🛒💡</h1>
+<p><strong>Industry:</strong> Retail / E-Commerce<br>
+<strong>Target Users:</strong> Store Managers, Marketing Teams, Customer Relationship Managers<br>
+<strong>Project Type:</strong> Salesforce CRM Implementation</p>
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+<hr>
 
-## How Do You Plan to Deploy Your Changes?
+<h2>🔗 Project Overview</h2>
+<p>Retail businesses often struggle to manage promotions, track discounts, and allocate offers effectively. Manual tracking leads to overlapping promotions, missed opportunities, customer dissatisfaction, and revenue leakage.</p>
+<p><strong>Smart Retail Promotions & Discount CRM</strong> solves this by providing a centralized Salesforce-based system to:</p>
+<ul>
+  <li>Track all active promotions & discount campaigns</li>
+  <li>Allocate personalized offers to loyal customers</li>
+  <li>Prevent overlapping promotions on the same product</li>
+  <li>Automate approvals & expiry alerts</li>
+  <li>Provide clear dashboards for managers to measure promotion impact</li>
+</ul>
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+<hr>
 
-## Configure Your Salesforce DX Project
+<h2>🔗 Problem Statement</h2>
+<p>Retail businesses often lose revenue and face risks due to overlapping discounts, missed expiry alerts, duplicate entries, and limited visibility into promotions. Manual tracking fails to provide real-time insights, making it hard for managers to act proactively. <strong>Smart Retail Promotions & Discount CRM</strong> centralizes promotion management in Salesforce, automates alerts, prevents duplicates, and provides dashboards for smarter decision-making and improved customer satisfaction.</p>
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+<hr>
 
-## Read All About It
+<h2>🔗 Salesforce Solution Benefits</h2>
+<p>Implementing <strong>Smart Retail Promotions & Discount CRM</strong> in Salesforce centralizes promotion management, prevents duplicates, and automates expiry alerts and approvals. Real-time dashboards provide insights into campaign performance and customer engagement, enabling smarter decisions. Personalized promotions enhance customer satisfaction, while seamless integration with external tools and scalable customization ensure the system grows with the business. Additionally, clear records and audit trails improve compliance and operational efficiency.</p>
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+<hr>
+
+<h2>🚀 Project Phases</h2>
+<ul>
+  <li>Phase 1: Problem Understanding & Industry Analysis ✅</li>
+  <li>Phase 2: Org Setup & Configuration ✅</li>
+  <li>Phase 3: Data Modeling & Relationships ✅</li>
+  <li>Phase 4: Automation & Approval ✅</li>
+  <li>Phase 5: Apex & Advanced Automation ✅</li>
+  <li>Phase 6: User Interface Development (LWC, Tabs, App Builder) ✅</li>
+  <li>Phase 7: Integration & External Access (APIs, Experience Sites) ✅</li>
+  <li>Phase 8: Data Management & Deployment ✅</li>
+  <li>Phase 9: Reporting, Dashboards & Security Review ✅</li>
+  <li>Phase 10: Final Presentation & Demo ✅</li>
+</ul>
+
+<hr>
+
+<h2>📂 Repository Insights</h2>
+<p><strong>Languages Used:</strong></p>
+<ul>
+  <li>JavaScript – 76%</li>
+  <li>Apex – 24%</li>
+</ul>
+
+<hr>
+
+ 
+<p>⭐ If you find this project useful, don’t forget to <strong>star this repo</strong>!</p>
+<p>© 2025 GitHub, Inc.</p>
