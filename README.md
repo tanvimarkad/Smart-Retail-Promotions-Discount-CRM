@@ -1,4 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Retail Promotions & Discount CRM</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    h2 {
+      color: #34495e;
+      margin-top: 30px;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+    hr {
+      margin: 25px 0;
+      border: 0;
+      border-top: 1px solid #ccc;
+    }
+    p {
+      margin: 10px 0;
+    }
+    strong {
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+
 <h1>Smart Retail Promotions & Discount CRM 🛒💡</h1>
+
 <p><strong>Industry:</strong> Retail / E-Commerce<br>
 <strong>Target Users:</strong> Store Managers, Marketing Teams, Customer Relationship Managers<br>
 <strong>Project Type:</strong> Salesforce CRM Implementation</p>
@@ -53,6 +94,8 @@
 
 <hr>
 
- 
 <p>⭐ If you find this project useful, don’t forget to <strong>star this repo</strong>!</p>
 <p>© 2025 GitHub, Inc.</p>
+
+</body>
+</html>
