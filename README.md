@@ -93,9 +93,7 @@
 </ul>
 
 <hr>
-
-<p>⭐ If you find this project useful, don’t forget to <strong>star this repo</strong>!</p>
-<p>© 2025 GitHub, Inc.</p>
+ 
 
 </body>
 </html>
