@@ -1,99 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Smart Retail Promotions & Discount CRM</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f7f7f7;
-      color: #333;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    h2 {
-      color: #34495e;
-      margin-top: 30px;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-    hr {
-      margin: 25px 0;
-      border: 0;
-      border-top: 1px solid #ccc;
-    }
-    p {
-      margin: 10px 0;
-    }
-    strong {
-      color: #2c3e50;
-    }
-  </style>
-</head>
-<body>
+# Smart Retail Promotions & Discount CRM 🛒💡
 
-<h1>Smart Retail Promotions & Discount CRM 🛒💡</h1>
+**Industry:** Retail / E-Commerce  
+**Target Users:** Store Managers, Marketing Teams, Customer Relationship Managers  
+**Project Type:** Salesforce CRM Implementation  
 
-<p><strong>Industry:</strong> Retail / E-Commerce<br>
-<strong>Target Users:</strong> Store Managers, Marketing Teams, Customer Relationship Managers<br>
-<strong>Project Type:</strong> Salesforce CRM Implementation</p>
+---
 
-<hr>
+## 🔗 Project Overview
+Retail businesses often struggle to manage promotions, track discounts, and allocate offers effectively. Manual tracking leads to overlapping promotions, missed opportunities, customer dissatisfaction, and revenue leakage.  
 
-<h2>🔗 Project Overview</h2>
-<p>Retail businesses often struggle to manage promotions, track discounts, and allocate offers effectively. Manual tracking leads to overlapping promotions, missed opportunities, customer dissatisfaction, and revenue leakage.</p>
-<p><strong>Smart Retail Promotions & Discount CRM</strong> solves this by providing a centralized Salesforce-based system to:</p>
-<ul>
-  <li>Track all active promotions & discount campaigns</li>
-  <li>Allocate personalized offers to loyal customers</li>
-  <li>Prevent overlapping promotions on the same product</li>
-  <li>Automate approvals & expiry alerts</li>
-  <li>Provide clear dashboards for managers to measure promotion impact</li>
-</ul>
+**Smart Retail Promotions & Discount CRM** solves this by providing a centralized Salesforce-based system to:  
 
-<hr>
+- Track all active promotions & discount campaigns  
+- Allocate personalized offers to loyal customers  
+- Prevent overlapping promotions on the same product  
+- Automate approvals & expiry alerts  
+- Provide clear dashboards for managers to measure promotion impact  
 
-<h2>🔗 Problem Statement</h2>
-<p>Retail businesses often lose revenue and face risks due to overlapping discounts, missed expiry alerts, duplicate entries, and limited visibility into promotions. Manual tracking fails to provide real-time insights, making it hard for managers to act proactively. <strong>Smart Retail Promotions & Discount CRM</strong> centralizes promotion management in Salesforce, automates alerts, prevents duplicates, and provides dashboards for smarter decision-making and improved customer satisfaction.</p>
+---
 
-<hr>
+## 🔗 Problem Statement
+Retail businesses often lose revenue and face risks due to overlapping discounts, missed expiry alerts, duplicate entries, and limited visibility into promotions. Manual tracking fails to provide real-time insights, making it hard for managers to act proactively.  
 
-<h2>🔗 Salesforce Solution Benefits</h2>
-<p>Implementing <strong>Smart Retail Promotions & Discount CRM</strong> in Salesforce centralizes promotion management, prevents duplicates, and automates expiry alerts and approvals. Real-time dashboards provide insights into campaign performance and customer engagement, enabling smarter decisions. Personalized promotions enhance customer satisfaction, while seamless integration with external tools and scalable customization ensure the system grows with the business. Additionally, clear records and audit trails improve compliance and operational efficiency.</p>
+**Smart Retail Promotions & Discount CRM** centralizes promotion management in Salesforce, automates alerts, prevents duplicates, and provides dashboards for smarter decision-making and improved customer satisfaction.  
 
-<hr>
+---
 
-<h2>🚀 Project Phases</h2>
-<ul>
-  <li>Phase 1: Problem Understanding & Industry Analysis ✅</li>
-  <li>Phase 2: Org Setup & Configuration ✅</li>
-  <li>Phase 3: Data Modeling & Relationships ✅</li>
-  <li>Phase 4: Automation & Approval ✅</li>
-  <li>Phase 5: Apex & Advanced Automation ✅</li>
-  <li>Phase 6: User Interface Development (LWC, Tabs, App Builder) ✅</li>
-  <li>Phase 7: Integration & External Access (APIs, Experience Sites) ✅</li>
-  <li>Phase 8: Data Management & Deployment ✅</li>
-  <li>Phase 9: Reporting, Dashboards & Security Review ✅</li>
-  <li>Phase 10: Final Presentation & Demo ✅</li>
-</ul>
+## 🔗 Salesforce Solution Benefits
+Implementing **Smart Retail Promotions & Discount CRM** in Salesforce:  
 
-<hr>
+- Centralizes promotion management and prevents duplicates  
+- Automates expiry alerts and approvals  
+- Provides real-time dashboards for insights into campaign performance and customer engagement  
+- Enhances customer satisfaction through personalized promotions  
+- Seamlessly integrates with external tools and scales with business growth  
+- Improves compliance and operational efficiency via clear records and audit trails  
 
-<h2>📂 Repository Insights</h2>
-<p><strong>Languages Used:</strong></p>
-<ul>
-  <li>JavaScript – 76%</li>
-  <li>Apex – 24%</li>
-</ul>
+---
 
-<hr>
- 
+## 🚀 Project Phases
+1. Phase 1: Problem Understanding & Industry Analysis ✅  
+2. Phase 2: Org Setup & Configuration ✅  
+3. Phase 3: Data Modeling & Relationships ✅  
+4. Phase 4: Automation & Approval ✅  
+5. Phase 5: Apex & Advanced Automation ✅  
+6. Phase 6: User Interface Development (LWC, Tabs, App Builder) ✅  
+7. Phase 7: Integration & External Access (APIs, Experience Sites) ✅  
+8. Phase 8: Data Management & Deployment ✅  
+9. Phase 9: Reporting, Dashboards & Security Review ✅  
+10. Phase 10: Final Presentation & Demo ✅  
 
-</body>
-</html>
+Demo Video Link :https://drive.google.com/file/d/1vOcPGA3bL_x0N6Y0YeTBeMBn8GlqcV2e/view?usp=drive_link
